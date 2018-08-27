@@ -1,0 +1,12 @@
+{
+    "name": "Garage-Doors",
+    "description": "Control of my garage doors",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_pi-garage.json",
+            "credentialsFile": "flows_pi-garage_cred.json"
+        }
+    }
+}
