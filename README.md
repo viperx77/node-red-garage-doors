@@ -9,9 +9,9 @@ Garage-Doors
 4. emails if open/close transition does not complete
 
 Button Colors:
-RED = Open
-GREEN = Closed
-BLUE = Transitioning
+- RED = Open
+- GREEN = Closed
+- BLUE = Transitioning
 
 ### Wiring & Component Diagram
 
